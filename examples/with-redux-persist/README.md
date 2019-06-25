@@ -11,7 +11,7 @@ Execute [`create-next-app`](https://github.com/segmentio/create-next-app) with [
 ```bash
 npx create-next-app --example with-redux-persist with-redux-persist-app
 # or
-yarn create next-app --example with-redux-persist with-redux-persist-app
+yarn create-next-app --example with-redux-persist with-redux-persist-app
 ```
 
 ### Download manually
